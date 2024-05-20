@@ -1,7 +1,7 @@
 %==========================================================================
 %	INTRODUCTION
 %==========================================================================
-%	The main file of the repository is the script "PlotComparisonMF_WMF.m" 
+	The main file of the repository is the script "PlotComparisonMF_WMF.m" 
 %       The file contains multiple functions referenced below.
 %	The script generates a the comparison between the Multifidelity Gaussian Process
 %       and the Warped Multifidelity Gaussian process. 
