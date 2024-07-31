@@ -1,4 +1,4 @@
-# Warped Multifidelity Gaussian Process Models for Environmental Data Imputation
+# Warped Multifidelity Gaussian Process Models for Environmental Data Imputation (https://arxiv.org/abs/2407.20295)
 
 ## Introduction
 The main file of this repository is the script `PlotComparisonMF_WMF.m`. This script generates a comparison between the Multifidelity Gaussian Process (MFGP) and the Warped Multifidelity Gaussian Process (WMFGP).
